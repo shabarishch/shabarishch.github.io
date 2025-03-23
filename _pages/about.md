@@ -12,7 +12,6 @@ I am a PhD student at the University of Michigan, advised by Mark Rudelson. My r
 ### Preprints
 
 * *Optimal Oblivious Subspace Embeddings with Near-optimal Sparsity* (with Michał Derezi´ nski and Xiaoyu Dong) Submitted, [arXiv](https://arxiv.org/abs/2411.08773) 
-* *Linear hyperbolic equations in a double null foliation*, 2024. Preprint on [arXiv](https://arxiv.org/abs/2412.01915).
 
 ### Conference Papers
 
